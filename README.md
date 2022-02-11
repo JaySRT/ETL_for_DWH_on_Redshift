@@ -2,7 +2,7 @@
 ETL Pipeline in AWS Redshift and S3
 
 ## Project Summary
-In this project, I built an **ETL Pipeline**
+In this project, I have built an **ETL Pipeline**
 of a large data set from a fictitious music streaming service named *Sparkify*.
 The ETL process flows from AWS's S3 into staging tables in **AWS Redshift**.
 
